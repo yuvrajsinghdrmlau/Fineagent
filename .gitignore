@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+finagent.db
+.venv/
+venv/
+.DS_Store
