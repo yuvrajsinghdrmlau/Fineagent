@@ -120,10 +120,10 @@ finagent/
 
 ## Roadmap / possible extensions
 
-- Multi-agent version (Categorizer, Analyst, Advisor agents) using LangGraph or CrewAI
+- Multi-agent version (Categorizer, Analyst, Advisor agents) using LangGraph
 - RAG over historical statements for "why did I overspend in March"-style questions
 - Live stock/index data tool to compare savings vs. market performance
-- Recurring bill detection and predictive cash-flow alerts
+- Recurring bill detection and predictive cash-flow alerts  
 
 ## License
 
