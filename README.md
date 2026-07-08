@@ -19,7 +19,7 @@ it plan:
 - The agent also runs **anomaly detection** proactively (e.g. catching a
   subscription that silently doubled in price) without being explicitly asked.
 
-## Architecture  
+## Architecture e
 
 ```
 ┌─────────────┐      ┌──────────────┐      ┌───────────────────┐
